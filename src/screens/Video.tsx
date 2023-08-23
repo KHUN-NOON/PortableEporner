@@ -114,7 +114,7 @@ StyleSheet.create({
     },
     webviewcontainer: {
         width: '100%', 
-        height: orientation === 'PORTRAIT' ? 220: '100%', 
+        height: orientation === 'PORTRAIT' ? 230: '100%', 
         // paddingHorizontal: orientation === 'PORTRAIT' ? 0 : 10,
         zIndex: 1
     },
